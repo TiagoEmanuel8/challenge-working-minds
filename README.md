@@ -4,11 +4,10 @@
 # Sumário
 
 - [Apresentação do projeto](#apresentação-do-projeto)
-- [Tecnologias envolvidas](#tecnologias-envolvidas)
-- [Justificativas](#tecnologias-envolvidas)
+- [Tecnologias](#tecnologias)
 - [Funcionalidades](#funcionalidades)
+- [Preview](#preview)
 - [Instalação e uso](#instalação-e-uso)
-- [Referencias](#referencias)
 
 ---
 
@@ -17,7 +16,19 @@ O Minds Vacation é um projeto que consiste numa aplicação fullstack para real
 Esse projeto foi desenvolvido para seleção do cargo de desenvolvedor fullstack da [working minds](https://www.wkm.com.br/) 
 
 ---
-#  Justificativas
+#  Tecnologias
+
+Para fazer o projeto utilizei como principais ferramentas:
+
+ - [Typescript](https://www.typescriptlang.org/)
+ - [Node](https://nodejs.org/en/docs)
+ - [Nest](https://nestjs.com/)
+ - [React](https://react.dev/)
+ - [Next](https://nextjs.org/)
+ - [Prisma](https://www.prisma.io/)
+ - [Mysql](https://www.mysql.com/)
+ - [Chakra](https://chakra-ui.com/)
+
 
 
 ---
