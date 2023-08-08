@@ -29,8 +29,6 @@ Para fazer o projeto utilizei como principais ferramentas:
  - [Mysql](https://www.mysql.com/)
  - [Chakra](https://chakra-ui.com/)
 
-
-
 ---
 
 # Funcionalidades
@@ -63,7 +61,14 @@ Fluxo de Férias
 
 # Preview
 
-[ Carregar o gif do projeto ]
+O projeto foi construido pensando em responsividade, então nas imagens abaixo, algumas são de telas de celular e outras em uma tela de desktop
+
+![Captura-de-tela-de-2023-08-07-23-40-27](https://github.com/TiagoEmanuel8/challenge-working-minds/assets/72472530/ecfcdaa4-63c8-40b7-8766-95f59aa8183e)
+![Captura-de-tela-de-2023-08-07-23-49-19](https://github.com/TiagoEmanuel8/challenge-working-minds/assets/72472530/e9c992db-4499-4827-b091-0147ce0e3f0e)
+![Captura-de-tela-de-2023-08-07-23-43-33](https://github.com/TiagoEmanuel8/challenge-working-minds/assets/72472530/b90020d7-3a3a-4acd-8a05-7ff82c0937fb)
+![Captura-de-tela-de-2023-08-07-23-45-57](https://github.com/TiagoEmanuel8/challenge-working-minds/assets/72472530/22fca54c-89c0-471c-9234-bd85364f558a)
+![Captura-de-tela-de-2023-08-07-23-44-09](https://github.com/TiagoEmanuel8/challenge-working-minds/assets/72472530/266ef2c7-27f2-4ae2-a655-87c3ab692fdc)
+![Captura-de-tela-de-2023-08-07-23-40-53](https://github.com/TiagoEmanuel8/challenge-working-minds/assets/72472530/6958dd4e-0c1d-4ccb-a2e0-5488515a14a0)
 
 ---
 
